@@ -1,28 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de1c550e-e66a-4421-beee-78d47a508075" name="Changes" comment="" />
+    <list default="true" id="de1c550e-e66a-4421-beee-78d47a508075" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Fundamental May 2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Exercise/Arrays - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Lab/Arrays - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/More_Exercises/Arrays - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Synax_Conditional_Statements_and_Loops/Exercise/Basic Syntax, Conditional Statements and Loops - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Synax_Conditional_Statements_and_Loops/Lab/Basic Syntax, Conditional Statements and Loops - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Synax_Conditional_Statements_and_Loops/More_Exercises/Basic Syntax, Conditional Statements and Loops - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Types_and_Variables/Exercise/Data Types and Variables - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Types_and_Variables/Lab/Data Types and Variables - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Types_and_Variables/More_Exercises/Data Types and Variables - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Exercise/Lists - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/More_Exercises/Lists - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps_Lambda_Stream_API/Exercise/Maps, Lambda and Stream API - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps_Lambda_Stream_API/Lab/Maps, Lambda and Stream API - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps_Lambda_Stream_API/More_Exercises/Maps, Lambda and Stream API - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Exercise/Methods - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Lab/Methods - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/More_Exercises/Methods - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Objects_and_Classes/Exercise/Objects and Classes - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Objects_and_Classes/Lab/Objects and Classes - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Objects_and_Classes/More_Exercises/Objects and Classes - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Regular_Expressions/Exercise/Regular Expressions - Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Regular_Expressions/Lab/Regular Expressions - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Regular_Expressions/More_Exercises/Regular Expressions - More Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_Processing/Exercise/Text Processing - Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_Processing/Lab/Text Processing - Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_Processing/More_Exercises/Text Processing - More Exercise.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2d6DKAMyokOa6UPy7i27FQ2WhbJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java 2024/Java Basic March 2024&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Data_Types_and_Variables" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Test_Processing" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Regular_Expressions" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Objects_and_Classes" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Methods" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Maps_Lambda_Stream_API\Exercise" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Maps_Lambda_Stream_API\Lab" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Maps_Lambda_Stream_API\More_Exercises" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Regular_Expressions\Exercise" />
+      <recent name="D:\Java 2024\Java Fundamental May 2024\src\Regular_Expressions\Lab" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
